@@ -10,52 +10,16 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>proff29_examples</module>
-        <module>proff29_examples_web</module>
-        <module>valeriy_mazur</module>
-        <module>yuliia_nemyrovets</module>
-        <module>yuliia_nemyrovets_web</module>
-        <module>yuliia1_nemyrovets1_spring1</module>
 
-        <module>alexandr_cherkassky</module>
-        <module>lidia_gaidukova</module>
-        <module>lidia_gaidukova_web</module>
-        <module>alexandr_khoda</module>
-        <module>alexandr_khoda_web</module>
-        <module>alexandr_khoda_spring</module>
         <module>dima_rutskiy</module>
-        <module>sergey_kutsiy</module>
-        <module>sergey_kutsiy_web</module>
-        <module>olena_babenko</module>
 
-
-        <module>andrey_kallko</module>
         <module>dima_rutskiy_web</module>
-        <module>ScrumAll_spring</module>
-
-        <!--<module>andrey_kallko</module>-->
 
 
-        <module>igor_gonchar</module>
-        <module>igor_gonchar_web</module>
-        <module>igor_gonchar_spring_final</module>
-        <module>vladymyr_danilov</module>
-        <module>vladymyr_danilov_web</module>
-        <module>vladymyr_danilov_spring</module>
 
 
-        <module>pavel_semerenko</module>
-        <module>pavel_semerenko_web</module>
-        <module>salvador_sakho</module>
-        <module>salvador_sakho_web</module>
-        <module>kristina_karpenko</module>
-        <module>kristina_karpenko_web</module>
-        <module>kristina_karpenko_spring</module>
-        <module>lyashenko_dmitriy</module>
-        <module>lyashenko_dmitriy_web</module>
-        <module>lyashenko_dmitriy_spring</module>
-        <module>pavlo_mykolaienko</module>
-        <module>pavlo_mykolaienko_web</module>
+
+
 
         <module>vadim_davidenko</module>
         <module>vadim_davidenko_web</module>
@@ -63,12 +27,10 @@
 
         <!--<module>vladymyr_danilov</module>-->
 
-        <module>yura_skulskiy</module>
-        <module>yura_skulskiy_web</module>
 
-        <module>olena_babenko_web</module>
-        <module>alexandr_cherkassky_web</module>
-        <module>team_project_spring</module>
+        <module>Hiber</module>
+
+        <module>TestProgForce</module>
     </modules>
 
     <properties>

@@ -126,6 +126,7 @@ public class NotebookDaoImpl implements NotebookDao {
 
          Session session = factory.openSession();
          Query query = session.createQuery("from Notebook ntb WHERE ntb.model = :model");
+         query.setParameter("model", model);
          return query.list();
      }
 

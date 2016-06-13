@@ -13,7 +13,7 @@ public class Auth {
 
     public static void main(String[] args) {
         Auth auth = new Auth();
-        boolean isPresent = auth.isAuthenticated("Piter", "Drugii");
+        boolean isPresent = auth.isAuthenticated("Piter", "Pershii");
         System.out.println("PiterII present: " + isPresent);
     }
     public Auth() {
@@ -23,12 +23,12 @@ public class Auth {
     }
 
     public boolean isAuthenticated(String login, String pass) {
-/*        for (User user : hw5.users) {
+     for (User user : users) {
             if(user.getLogin().equals(login) && user.getPass().equals(pass)) {
                 return true;
             }
         }
-        return false;*/
-        return users.contains(new User(login, pass));
+        return false;
+       // return users.contains(new User(login, pass));
     }
 }
