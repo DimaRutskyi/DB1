@@ -16,7 +16,7 @@ public class MakeConnection {
             MongoClient mongoClient = new MongoClient( "localhost" , 27017 );
 
             // Now connect to your databases
-            db = mongoClient.getDB( "test7" );
+            db = mongoClient.getDB( "DB" );
             System.out.println("Connect to database successfully");
 
         }catch(Exception e){
