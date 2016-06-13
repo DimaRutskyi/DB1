@@ -81,7 +81,7 @@ class SecondThread extends Thread
             System.out.println(cursorDocJSON2.next());}
     }
 }
-public class MAIN {
+public class Main {
 
     public static void main( String args[] )  throws InterruptedException {
 

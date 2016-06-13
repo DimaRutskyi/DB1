@@ -9,7 +9,7 @@ import java.util.List;
  */
 public interface ShopInterface {
 
-    void readBySms(DBCollection table, String sms, String value );
+    void read(DBCollection table, String sms, String value );
     void  addProduct(DBCollection table, String categorie, String title, int price, String status );
     void changeStatus (DBCollection table,String curStatus );
     void changeValue (DBCollection table,double koef );

@@ -22,7 +22,7 @@ public class Shop2 implements ShopInterface  {
 
 
     @Override
-    public void readBySms(DBCollection table, String sms, String value) {
+    public void read(DBCollection table, String sms, String value) {
 
         BasicDBObject query = new BasicDBObject();
         query.put(sms, value);
