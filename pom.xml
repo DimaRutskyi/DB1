@@ -11,16 +11,6 @@
 
     <modules>
 
-        <module>dima_rutskiy</module>
-
-        <module>dima_rutskiy_web</module>
-
-
-
-        <!--<module>vladymyr_danilov</module>-->
-
-
-        <module>Hiber</module>
 
         <module>TestProgForce</module>
     </modules>
