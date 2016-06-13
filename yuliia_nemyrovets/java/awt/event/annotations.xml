@@ -1,6 +1,0 @@
-<root>
-  <item name='java.awt.event.ActionEvent'>
-    <annotation name='java.lang.annotation.Deprecated'/>
-    <annotation name='org.jetbrains.annotations.NotNull'/>
-  </item>
-</root>
